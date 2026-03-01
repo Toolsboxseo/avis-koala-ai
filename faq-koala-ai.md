@@ -3,7 +3,7 @@
 **Dernière mise à jour : 1er mars 2026**
 
 ## 👉 Essayer Koala AI : https://koala.sh/?via=login-link
-## 👉 Code promo : WELCOME2026 (15% off on all payments)
+## 👉 Code promo : WELCOME2026 (-15% sur tous les paiements)
 
 ---
 
@@ -130,4 +130,4 @@ Si cadence stable et besoin de crédits utilisables sur la durée. Sinon, mensue
 
 ## 👉 Accès + promo
 - Lien : https://koala.sh/?via=login-link
-- Code promo : WELCOME2026 (15% off on all payments)
+- Code promo : WELCOME2026 (-15% sur tous les paiements)
