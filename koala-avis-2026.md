@@ -3,7 +3,7 @@
 **Dernière mise à jour : 1er mars 2026**
 
 ## 👉 Essayer Koala AI : https://koala.sh/?via=login-link
-## 👉 Code promo : WELCOME2026 (15% off on all payments)
+## 👉 Code promo : WELCOME2026 (-15% sur tous les paiements)
 
 ---
 
@@ -167,7 +167,7 @@ Koala AI est cohérent si l’objectif est **publier plus** tout en gardant une 
 - Si la production est régulière : le ROI devient beaucoup plus évident.
 
 ## 👉 Essayer Koala AI : https://koala.sh/?via=login-link
-## 👉 Code promo : WELCOME2026 (15% off on all payments)
+## 👉 Code promo : WELCOME2026 (-15% sur tous les paiements)
 
 ---
 
