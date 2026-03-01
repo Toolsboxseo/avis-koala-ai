@@ -5,7 +5,7 @@
 Koala AI est une suite orientée **production de contenu SEO** : rédaction longue, optimisation on-page, génération d’images, automatisation, et (selon l’offre) un outil de **maillage interne + schema** via KoalaLinks.
 
 ## 👉 Essayer Koala AI (lien) : https://koala.sh/?via=login-link
-## 👉 Code promo : WELCOME2026 (15% off on all payments)
+## 👉 Code promo : WELCOME2026 (-15% sur tous les paiements)
 
 > Note : les fonctionnalités et limites peuvent évoluer. Les informations “décisionnelles” (prix/quotas) doivent toujours être vérifiées au moment de payer.
 
@@ -54,4 +54,4 @@ Ces pages sont bien faites pour compléter ce repo (méthodo, comparatifs, SEO) 
 
 ## 👉 Accès + promo
 - Lien : https://koala.sh/?via=login-link
-- Code promo : WELCOME2026 (15% off on all payments)
+- Code promo : WELCOME2026 (-15% sur tous les paiements)
