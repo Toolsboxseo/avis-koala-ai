@@ -1,10 +1,9 @@
-# koala-integrations-wordpress-shopify-webflow.md
 # Koala AI : intégrations (publication & automatisation)
 
 **Dernière mise à jour : 1er mars 2026**
 
 ## 👉 Accès Koala AI : https://koala.sh/?via=login-link
-## 👉 Code promo : WELCOME2026 (15% off on all payments)
+## 👉 Code promo : WELCOME2026 (-15% sur tous les paiements)
 
 ---
 
