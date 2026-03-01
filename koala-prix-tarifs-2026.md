@@ -3,7 +3,7 @@
 **Dernière mise à jour : 1er mars 2026**
 
 ## 👉 Voir Koala AI : https://koala.sh/?via=login-link
-## 👉 Code promo : WELCOME2026 (15% off on all payments)
+## 👉 Code promo : WELCOME2026 (-15% sur tous les paiements)
 
 ---
 
@@ -129,4 +129,4 @@ Le ROI dépend surtout du process :
 
 ## 👉 Accès + promo
 - Lien : https://koala.sh/?via=login-link
-- Code promo : WELCOME2026 (15% off on all payments)
+- Code promo : WELCOME2026 (-15% sur tous les paiements)
