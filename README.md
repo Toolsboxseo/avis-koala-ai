@@ -1,33 +1,57 @@
 # Koala AI : avis complet (2026) + code promo -15% = WELCOME2026
 
-Koala AI regroupe plusieurs briques utiles pour produire (et publier) du contenu orienté SEO plus vite : **KoalaWriter** (rédaction), **KoalaChat** (chat), **KoalaImages** (images), **KoalaLinks** (maillage interne + schema), **KoalaMagnets** (widgets IA à intégrer sur site).
+**Dernière mise à jour : 1er mars 2026**
 
-### 👉 Essayer Koala AI via ce lien : https://koala.sh/?via=login-link
-### 👉 Code promo : WELCOME2026 (15% off on all payments)
+Koala AI est une suite orientée **production de contenu SEO** : rédaction longue, optimisation on-page, génération d’images, automatisation, et (selon l’offre) un outil de **maillage interne + schema** via KoalaLinks.
 
-> ℹ️ Les prix, limites et promos peuvent évoluer : toujours vérifier au moment du paiement sur la page officielle.
+## 👉 Essayer Koala AI (lien) : https://koala.sh/?via=login-link
+## 👉 Code promo : WELCOME2026 (15% off on all payments)
 
----
-
-## Sommaire
-- [Avis Koala AI (2026)](./koala-avis-2026.md)
-- [Fonctionnalités (KoalaWriter, KoalaChat, KoalaImages, KoalaLinks, KoalaMagnets)](./koala-fonctionnalites.md)
-- [Prix & tarifs 2026 (plans, volumes, logique de choix)](./koala-prix-tarifs-2026.md)
-- [KoalaLinks : internal linking + related posts + schema (guide)](./koala-koalalinks-internal-linking.md)
-- [Intégrations : WordPress / Shopify / Webflow / Ghost + webhooks](./koala-integrations-wordpress-shopify-webflow.md)
-- [FAQ Koala AI](./faq-koala-ai.md)
+> Note : les fonctionnalités et limites peuvent évoluer. Les informations “décisionnelles” (prix/quotas) doivent toujours être vérifiées au moment de payer.
 
 ---
 
-## À quoi sert ce repo ?
-Ce dépôt GitHub sert de **page “ressource”** facile à partager (avis, fonctionnalités, prix, FAQ), plus simple à maintenir qu’un article unique, et plus “scan-friendly”.
-
-### 👉 Démarrer Koala AI : https://koala.sh/?via=login-link
-### 👉 Code promo : WELCOME2026
+## Sommaire du repo (cocon sémantique)
+- [Avis Koala AI (2026) — page pilier](./koala-avis-2026.md)
+- [Fonctionnalités — KoalaWriter / KoalaChat / KoalaImages / KoalaLinks / KoalaMagnets](./koala-fonctionnalites.md)
+- [Prix & tarifs 2026 — comment choisir (sans se faire piéger)](./koala-prix-tarifs-2026.md)
+- [KoalaLinks — maillage interne + schema + autopilot (guide)](./koala-koalalinks-internal-linking.md)
+- [Intégrations — WordPress / Shopify / Webflow / Ghost + webhooks + API](./koala-integrations-wordpress-shopify-webflow.md)
+- [FAQ Koala AI — réponses rapides & concrètes](./faq-koala-ai.md)
 
 ---
 
 ## TL;DR (si 30 secondes)
-- Koala vise surtout les workflows **SEO / content marketing** (structure Hn, optimisation, production en volume).
-- Gros intérêt si : besoin de publier souvent, de décliner, ou de produire pour plusieurs sites/projets.
-- Points clés à regarder avant de payer : volumes mots/messages, options d’intégration, et intérêt de KoalaLinks selon la taille du site.
+- Koala AI vise un objectif : **accélérer un workflow SEO** (idée → plan → rédaction → optimisation → publication).
+- Fort intérêt si publication régulière, plusieurs sites/projets, ou besoin de standardiser.
+- Les gains viennent surtout d’un **process** : brief → génération → relecture → validation factuelle → mise en ligne.
+- KoalaLinks (maillage + schema) devient pertinent dès qu’un site a **un minimum de pages** (sinon l’impact est limité).
+
+---
+
+## Ressources externes utiles (koala-ai-avis.fr)
+Ces pages sont bien faites pour compléter ce repo (méthodo, comparatifs, SEO) :
+
+- Guide Koala (accueil) : https://koala-ai-avis.fr/
+- Avis détaillé Koala : https://koala-ai-avis.fr/koala-ai-avis
+- Fonctionnalités : https://koala-ai-avis.fr/fonctionnalites
+- Prix & plans (à lire avec recul si le site affiche un autre code promo) : https://koala-ai-avis.fr/koala-ai-prix
+- Tutoriels (Writer/Links/API) : https://koala-ai-avis.fr/tutoriels
+- SEO (cocon, ancres, pages orphelines) : https://koala-ai-avis.fr/seo
+- Comparatifs : https://koala-ai-avis.fr/comparatifs
+
+---
+
+## Mini checklist “avant de publier un article Koala”
+- ✅ Intention claire (informationnelle / commerciale / comparatif / guide)
+- ✅ Plan H2/H3 cohérent (pas “20 H2” inutiles)
+- ✅ Passage “fact-check” (dates, chiffres, noms, promesses)
+- ✅ Ajout de liens internes (vers pages pertinentes)
+- ✅ Images : alt, poids, placement (pas de “mur” d’images)
+- ✅ Conclusion utile (action suivante + CTA)
+
+---
+
+## 👉 Accès + promo
+- Lien : https://koala.sh/?via=login-link
+- Code promo : WELCOME2026 (15% off on all payments)
