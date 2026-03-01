@@ -1,4 +1,3 @@
-# koala-koalalinks-internal-linking.md
 # KoalaLinks : maillage interne automatique + related posts + schema (guide)
 
 **Dernière mise à jour : 1er mars 2026**
