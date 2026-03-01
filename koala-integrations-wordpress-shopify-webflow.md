@@ -122,4 +122,4 @@ Avant de cliquer “Publish” :
 
 ## 👉 Accès + promo
 - Lien : https://koala.sh/?via=login-link
-- Code promo : WELCOME2026 (15% off on all payments)
+- Code promo : WELCOME2026 (-15% sur tous les paiements)
