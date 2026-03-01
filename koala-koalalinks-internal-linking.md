@@ -3,7 +3,7 @@
 **Dernière mise à jour : 1er mars 2026**
 
 ## 👉 Accès Koala AI : https://koala.sh/?via=login-link
-## 👉 Code promo : WELCOME2026 (15% off on all payments)
+## 👉 Code promo : WELCOME2026 (-15% sur tous les paiements)
 
 ---
 
@@ -128,4 +128,4 @@ Oui si trop de liens, ancres identiques, ou pages reliées sans pertinence. D’
 
 ## 👉 Accès + promo
 - Lien : https://koala.sh/?via=login-link
-- Code promo : WELCOME2026 (15% off on all payments)
+- Code promo : WELCOME2026 (-15% sur tous les paiements)
